@@ -1,0 +1,280 @@
+BINARY SEARCH 
+Pratice fundamental questions 
+LEETCODE 704
+LEETCODE 35
+LEETCODE 34
+LEETCODE 658
+LEETCODE 1539
+LEETCODE 153
+LEETCODE 154
+LEETCODE 33
+LEETCODE 81
+LEETCODE 4
+https://www.geeksforgeeks.org/problems/aggressive-cows/1
+LEETCODE 875
+LEETCODE 2226
+LEETCODE 1482
+LEETCODE 1011
+LEETCODE 2594
+https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1
+LEETCODE 410
+
+1) CLASSIC BINARY SEARCH 
+
+35	Search Insert Position
+69	Sqrt(x)
+222	Count Complete Tree Nodes
+268	Missing Number
+270	Closest Binary Search Tree Value
+278	First Bad Version
+349	Intersection of Two Arrays
+350	Intersection of Two Arrays II
+367	Valid Perfect Square
+374	Guess Number Higher or Lower
+441	Arranging Coins
+704	Binary Search
+744	Find Smallest Letter Greater Than Target
+888	Fair Candy Swap
+1064	Fixed Point
+1099	Two Sum Less Than K
+1150	Check If a Number Is Majority Element in a Sorted Array
+1213	Intersection of Three Sorted Arrays
+1337	The K Weakest Rows in a Matrix
+1346	Check If N and Its Double Exist
+1351	Count Negative Numbers in a Sorted Matrix
+1385	Find the Distance Value Between Two Arrays
+1539	Kth Missing Positive Number
+1608	Special Array With X Elements Greater Than or Equal X
+2089	Find Target Indices After Sorting Array
+2389	Longest Subsequence With Limited Sum
+2529	Maximum Count of Positive Integer and Negative Integer
+2540	Minimum Common Value
+2824	Count Pairs Whose Sum is Less than Target
+2970	Count the Number of Incremovable Subarrays I
+3477	Fruits Into Baskets II
+3633	Earliest Finish Time for Land and Water Rides I
+
+2) SEARCH IN ROTATED
+
+33	Search in Rotated Sorted Array
+34	Find First and Last Position of Element in Sorted Array
+74	Search a 2D Matrix
+81	Search in Rotated Sorted Array II
+153	Find Minimum in Rotated Sorted Array
+154	Find Minimum in Rotated Sorted Array II
+162	Find Peak Element
+852	Peak Index in a Mountain Array
+1095	Find in Mountain Array
+240	Search a 2D Matrix II
+
+3) BINARY SEARCH ON THE ANSWER
+
+875	Koko Eating Bananas
+1011	Capacity To Ship Packages Within D Days
+1482	Minimum Number of Days to Make m Bouquets
+2226	Maximum Candies Allocated to K Children
+2594	Minimum Time to Repair Cars
+410	Split Array Largest Sum
+275	H-Index II
+719	Find K-th Smallest Pair Distance
+774	Minimize Max Distance to Gas Station
+1870	Minimum Speed to Arrive on Time
+1760	Minimum Limit of Balls in a Bag
+1802	Maximum Value at a Given Index in a Bounded Array
+1658	Minimum Operations to Reduce X to Zero
+2333	Minimum Sum of Squared Difference
+2560	House Robber IV
+2563	Count the Number of Fair Pairs
+2616	Minimize the Maximum Difference of Pairs
+2779	Maximum Beauty of an Array After Applying Operation
+2812	Find the Safest Path in a Grid
+2817	Minimum Absolute Difference Between Elements With Constraint
+2826	Sorting Three Groups
+2830	Maximize the Profit as the Salesman
+2831	Find the Longest Equal Subarray
+2838	Maximum Coins Heroes Can Collect
+2856	Minimum Array Length After Pair Removals
+2861	Maximum Number of Alloys
+2936	Number of Equal Numbers Blocks
+2967	Minimum Cost to Make Array Equalindromic
+2981	Find Longest Special Substring That Occurs Thrice I
+2982	Find Longest Special Substring That Occurs Thrice II
+3006	Find Beautiful Indices in the Given Array I
+3007	Maximum Number That Sum of the Prices Is Less Than or Equal to K
+3048	Earliest Second to Mark Indices I
+3109	Find the Index of Permutation
+3135	Equalize Strings by Adding or Removing Characters at Ends
+3143	Maximum Points Inside the Square
+3152	Special Array II
+3155	Maximum Number of Upgradable Servers
+3186	Maximum Total Damage With Spell Casting
+3281	Maximize Score of Numbers in Ranges
+3291	Minimum Number of Valid Strings to Form Target I
+3296	Minimum Number of Seconds to Make Mountain Height Zero
+3323	Minimize Connected Groups by Inserting Interval
+3344	Maximum Sized Array
+3346	Maximum Frequency of an Element After Performing Operations I
+3350	Adjacent Increasing Subarrays Detection II
+3356	Zero Array Transformation II
+3413	Maximum Coins From K Consecutive Bags
+3419	Minimize the Maximum Edge Weight of Graph
+3453	Separate Squares I
+3479	Fruits Into Baskets III
+3488	Closest Equal Element Queries
+3508	Implement Router
+3520	Minimum Threshold for Inversion Pairs Count
+3532	Path Existence Queries in a Graph I
+3608	Minimum Time for K Connected Components
+3613	Minimize Maximum Component Cost
+3635	Earliest Finish Time for Land and Water Rides II
+3639	Minimum Time to Activate String
+3656	Determine if a Simple Graph Exists
+
+4) BST RELATED
+
+270	Closest Binary Search Tree Value
+1214	Two Sum BSTs
+2476	Closest Nodes Queries in a Binary Search Tree
+
+5) COUNTING / SUBARRAYS / RANGE QUERIES
+
+209	Minimum Size Subarray Sum
+259	3Sum Smaller
+287	Find the Duplicate Number
+300	Longest Increasing Subsequence
+362	Design Hit Counter
+378	Kth Smallest Element in a Sorted Matrix
+400	Nth Digit
+436	Find Right Interval
+456	132 Pattern
+475	Heaters
+497	Random Point in Non-overlapping Rectangles
+528	Random Pick with Weight
+532	K-diff Pairs in an Array
+540	Single Element in a Sorted Array
+611	Valid Triangle Number
+633	Sum of Square Numbers
+658	Find K Closest Elements
+702	Search in a Sorted Array of Unknown Size
+713	Subarray Product Less Than K
+718	Maximum Length of Repeated Subarray
+729	My Calendar I
+731	My Calendar II
+754	Reach a Number
+786	K-th Smallest Prime Fraction
+792	Number of Matching Subsequences
+825	Friends Of Appropriate Ages
+826	Most Profit Assigning Work
+981	Time Based Key-Value Store
+1004	Max Consecutive Ones III
+1027	Longest Arithmetic Subsequence
+1055	Shortest Way to Form String
+1060	Missing Element in Sorted Array
+1062	Longest Repeating Substring
+1102	Path With Maximum Minimum Value
+1146	Snapshot Array
+1170	Compare Strings by Frequency of the Smallest Character
+1182	Shortest Distance to Target Color
+1198	Find Smallest Common Element in All Rows
+1201	Ugly Number III
+1208	Get Equal Substrings Within Budget
+1237	Find Positive Integer Solution for a Given Equation
+1268	Search Suggestions System
+1283	Find the Smallest Divisor Given a Threshold
+1292	Maximum Side Length of a Square with Sum less than or Equal to Threshold
+1300	Sum of Mutated Array Closest to Target
+
+6) ADVANCED BINARY SEARCH 
+
+4	Median of Two Sorted Arrays
+302	Smallest Rectangle Enclosing Black Pixels
+315	Count of Smaller Numbers After Self
+327	Count of Range Sum
+352	Data Stream as Disjoint Intervals
+354	Russian Doll Envelopes
+363	Max Sum of Rectangle No Larger Than K
+410	Split Array Largest Sum
+483	Smallest Good Base
+493	Reverse Pairs
+644	Maximum Average Subarray II
+668	Kth Smallest Number in Multiplication Table
+710	Random Pick with Blacklist
+732	My Calendar III
+774	Minimize Max Distance to Gas Station
+778	Swim in Rising Water
+793	Preimage Size of Factorial Zeroes Function
+862	Shortest Subarray with Sum at Least K
+878	Nth Magical Number
+887	Super Egg Drop
+902	Numbers At Most N Given Digit Set
+1044	Longest Duplicate Substring
+1095	Find in Mountain Array
+1157	Online Majority Element In Subarray
+1187	Make Array Strictly Increasing
+1231	Divide Chocolate
+1235	Maximum Profit in Job Scheduling
+1439	Find the Kth Smallest Sum of a Matrix With Sorted Rows
+1483	Kth Ancestor of a Tree Node
+1521	Find a Value of a Mysterious Function Closest to Target
+1649	Create Sorted Array through Instructions
+1671	Minimum Number of Removals to Make Mountain Array
+1713	Minimum Operations to Make a Subsequence
+1739	Building Boxes
+1751	Maximum Number of Events That Can Be Attended II
+1782	Count Pairs Of Nodes
+1793	Maximum Score of a Good Subarray
+1847	Closest Room
+1851	Minimum Interval to Include Each Query
+1862	Sum of Floored Pairs
+1889	Minimum Space Wasted From Packaging
+1923	Longest Common Subpath
+1932	Merge BSTs to Create Single BST
+1956	Minimum Time For K Virus Variants to Spread
+1964	Find the Longest Valid Obstacle Course at Each Position
+1970	Last Day Where You Can Still Cross
+2009	Minimum Number of Operations to Make Array Continuous
+2035	Partition Array Into Two Arrays to Minimize Sum Difference
+2040	Kth Smallest Product of Two Sorted Arrays
+2071	Maximum Number of Tasks You Can Assign
+2106	Maximum Fruits Harvested After at Most K Steps
+2111	Minimum Operations to Make the Array K-Increasing
+2141	Maximum Running Time of N Computers
+2179	Count Good Triplets in an Array
+2223	Sum of Scores of Built Strings
+2234	Maximum Total Beauty of the Gardens
+2251	Number of Flowers in Full Bloom
+2258	Escape the Spreading Fire
+2286	Booking Concert Tickets in Groups
+2302	Count Subarrays With Score Less Than K
+2354	Number of Excellent Pairs
+2398	Maximum Number of Robots Within Budget
+2426	Number of Pairs Satisfying Inequality
+2448	Minimum Cost to Make Array Equal
+2454	Next Greater Element IV
+2468	Split Message Based on Limit
+2519	Count the Number of K-Big Indices
+2528	Maximize the Minimum Powered City
+2565	Subsequence With the Minimum Score
+2589	Minimum Time to Complete All Tasks
+2604	Minimum Time to Eat All Grains
+2659	Make Array Empty
+2702	Minimum Operations to Make Numbers Non-positive
+2713	Maximum Strictly Increasing Cells in a Matrix
+2736	Maximum Sum Queries
+2790	Maximum Number of Groups With Increasing Length
+2819	Minimum Relative Loss After Buying Chocolates
+2926	Maximum Balanced Subsequence Sum
+2940	Find Building Where Alice and Bob Can Meet
+2941	Maximum GCD-Sum of a Subarray
+2945	Find Maximum Non-decreasing Array Length
+2968	Apply Operations to Maximize Frequency Score
+2972	Count the Number of Incremovable Subarrays II
+3008	Find Beautiful Indices in the Given Array II
+3049	Earliest Second to Mark Indices II
+3104	Find Longest Self-Contained Substring
+3113	Find the Number of Subarrays Where Boundary Elements Are Maximum
+3116	Kth Smallest Amount With Single Denomination Combination
+3147	Maximum Points After Performing Operations
+3160	Find the Maximum Value of the Modified Array
+3185	Maximum Points Collecting From Grid
+3190	Maximize Sum After N Operations
